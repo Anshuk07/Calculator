@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&family=Roboto:wght@100&display=swap');
+
+body { background-image: url("https://media.istockphoto.com/id/1304895375/vector/hand-drawn-seamless-pattern-of-business.jpg?s=612x612&w=0&k=20&c=0ZRxTOB_a6rOWL00i7cOgAv1Du9wkbE-2DQzomYEDag="); }
+
+html {
+  height: 100%;
+  width: 100%;
+  font-family: 'Croissant One', cursive;
+  background-color: #e6e6e6;
+  
+}
+
+button {
+  font-family: 'Croissant One', cursive;
+  width: 63px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 9px;
+  cursor: pointer;
+  background-color: mintcream;
+}
+
+.cal-back {
+  width: 300px;
+  border-radius: 9px;
+  background-color: black;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.row {
+  margin: 8px 0;
+}
+
+.row input {
+  font-family: 'Croissant One', cursive;
+  width: 290px;
+  font-size: 20px;
+  margin: 12px;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
